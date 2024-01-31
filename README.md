@@ -1,6 +1,6 @@
-<h2 style="align: center">Saber is here, Hi👋</h2>
+<h2 align="center">Saber is here, Hi👋</h2>
 <hr/>
-<h3>Motivated Senior Developer <h4>who is looking for make a positive impact</h4></h3>
+<h3>A Motivated Senior Developer 💪</h3>
 <hr/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=s-amani)](https://github.com/s-amani/github-profile-trophy)
 
