@@ -1,4 +1,4 @@
-<h3><center>Saber is here, Hi👋</center></h3>
+<h3 style="justify: center">Saber is here, Hi👋</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=s-amani)](https://github.com/s-amani/github-profile-trophy)
 
